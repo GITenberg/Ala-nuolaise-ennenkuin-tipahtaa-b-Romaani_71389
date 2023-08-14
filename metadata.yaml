@@ -1,0 +1,27 @@
+_repo: Ala-nuolaise-ennenkuin-tipahtaa-b-Romaani_71389
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Valtonen, Hilja
+    birthdate: 1897
+    deathdate: 1988
+    gutenberg_agent_id: '54890'
+    url: http://www.gutenberg.org/2009/agents/54890
+    wikipedia: https://fi.wikipedia.org/wiki/Hilja_Valtonen
+description: ''
+gutenberg_issued: '2023-08-11'
+identifiers:
+  gutenberg: '71389'
+language: fi
+pgterms:marc905: 20230507084828valtonen
+pgterms:marc906: '1960'
+pgterms:marc907: FI
+production_note: Sirkku-Liisa Häyhä-Karmakainen and Tapio Riikonen
+publication_note: '  $aHelsinki :$bOtava, $c1960.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Älä nuolaise ennenkuin tipahtaa : $b Romaani'
+url: http://www.gutenberg.org/ebooks/71389
